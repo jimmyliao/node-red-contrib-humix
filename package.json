@@ -21,7 +21,8 @@
     "license": "MIT",
     "node-red": {
         "nodes": {
-            "humix-facebook-v1": "services/social/facebook.js"
+            "humix-facebook-v1": "services/social/facebook.js",
+            "humix-sense-v1": "services/sense/sense.js"
         }
     },
 

@@ -21,7 +21,7 @@
     "license": "MIT",
     "node-red": {
         "nodes": {
-            "watson-concept-insights-v2": "services/social/facebook.js"
+            "humix-facebook-v1": "services/social/facebook.js"
         }
     },
 
